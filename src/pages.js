@@ -5,7 +5,7 @@ module.exports = {
   index(req, res) {
     return res.render("index");
   },
-
+lsdnhjdsdasoklicfdiscodiscdiscodjs
   async orphanage(req, res) {
     const id = req.query.id;
 
