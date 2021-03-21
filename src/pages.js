@@ -1,5 +1,6 @@
 const Database = require("./database/db");
 const saveOrphanage = require("./database/saveOrphanage");
+const saveOrphanage = require("./database/saveOrphanage");
 
 module.exports = {
   index(req, res) {
